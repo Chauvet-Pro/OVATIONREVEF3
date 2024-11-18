@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.1.2 - Ovation Rêve F-3](https://github.com/Chauvet-Pro/OVATIONREVEF3/blob/f71a8c9a2b5ce1f1591349a1efc02640467a98ea/firmware/V1.1.2_11-18-24.zip)
+- Improved fan stability in silent mode
+
 [V1.1.1 - Ovation Rêve F-3](https://github.com/Chauvet-Pro/OVATIONREVEF3/blob/8cdd780112f5e98f66749cf14e6768b3ba26519b/firmware/V1.1.1_09-20-24.zip)
 - Improved fan performance
 
