@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.2 - Ovation Rêve F-3](https://github.com/Chauvet-Pro/OVATIONREVEF3/blob/59f89f3d786a0102b9f8d76b81c9c950193428a9/firmware/V1.2.zip)
+-Improved fan speed ramping performance in fan auto mode for better noise performance.
+
 [V1.1.2 - Ovation Rêve F-3](https://github.com/Chauvet-Pro/OVATIONREVEF3/blob/f71a8c9a2b5ce1f1591349a1efc02640467a98ea/firmware/V1.1.2_11-18-24.zip)
 - Improved fan stability in silent mode
 
